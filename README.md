@@ -2,6 +2,8 @@
 
 This notebook explores techniques to transform data into features suitable for machine learning, and applies basic models for prediction.
 
+# Dataset : https://archive.ics.uci.edu/dataset/222/bank+marketing
+
 ## 🚀 What’s Inside
 - Feature selection and transformation
 - Creating new variables
